@@ -4,7 +4,7 @@
 <ul>
     <li>Ensure Python is installed on your machine</li>
     <li>Clone this Repo</li>
-    <li>Run the comand 'Python SkypeKill.py'</li>
+    <li>Run the comand `Python SkypeKill.py`</li>
 </ul>
 
 
